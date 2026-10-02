@@ -1,0 +1,7 @@
+gym==0.26.2
+gym-super-mario-bros==7.4.0
+nes-py==8.2.1
+numpy<2
+opencv-python
+stable-baselines3[extra]==2.3.2
+shimmy>=1.1,<2

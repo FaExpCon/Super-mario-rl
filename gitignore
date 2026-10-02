@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 학습 결과물 (용량이 크고 매번 바뀜)
+checkpoints/
+logs/
+*.zip
+
+# 게임 ROM 파일은 저작권 문제로 절대 올리지 않기
+*.nes
+
+# OS / 에디터
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
